@@ -6,6 +6,7 @@
 <!-- Tell the browser to be responsive to screen width -->
 <!-- Tell the browser to be responsive to screen width -->
 <!-- Tell the browser to be responsive to screen width -->
+<!-- Tell the browser to be responsive to screen width -->
 <!DOCTYPE html>
 <html>
 <head>
